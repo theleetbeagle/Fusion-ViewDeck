@@ -18,10 +18,10 @@ https://apps.autodesk.com/FUSION/en/Detail/Index?id=156700835167123223
 ------------------------------------------------------------
 Example Shortcut Bindings:
 ------------------------------------------------------------
-  H -> Home View
-  F -> Front View
-  T -> Top View
-  R -> Rotate 90 Degrees (if included)
+  - H -> Home View
+  - F -> Front View
+  - T -> Top View
+  - R -> Rotate 90 Degrees (if included)
 
 ------------------------------------------------------------
 Installation Instructions (Windows):
