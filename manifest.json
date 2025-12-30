@@ -1,0 +1,10 @@
+{
+    "name": "viewdeck",
+    "description": "Quick access to Home, Orthographic Views, and 90° rotation",
+    "author": "theleetbeagle",
+    "version": "1.0.0",
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "runOnStartup": false,
+    "main": "viewdeck.py"
+}
