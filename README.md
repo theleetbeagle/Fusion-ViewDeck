@@ -5,7 +5,7 @@ For instance, H goes to the Home View for me. F goes to the Front View, etc.
 
 For Windows, copy viewdeck.py and manifest.json into:
 
-C:\Users\<username>\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\AddIns\viewdeck
+C:\Users\\<username>\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\AddIns\viewdeck
 
 or more simply:
 
