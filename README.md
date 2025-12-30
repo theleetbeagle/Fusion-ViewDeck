@@ -36,9 +36,10 @@ Installation Instructions (Windows):
    %appdata%\Autodesk\Autodesk Fusion 360\API\AddIns\viewdeck
 
    Full path:
+   
    C:\Users\your_user_name\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\AddIns\viewdeck
 
-3. In Fusion 360:
+4. In Fusion 360:
    - Go to the "Utilities" tab
    - Open "Add-Ins"
    - Click the plus sign (+) to add a script or add-in from device
