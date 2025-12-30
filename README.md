@@ -13,8 +13,8 @@ or more simply:
 
 Then, in Fusion, go to Utilities | Add Ins | the little plus sign | script or add-in from device and find the folder from above.
 
-![Toolbar View](viewdeck.jpg)
-
 You will then have the dropdown displayed in the screenshot. Each menu item in that dropdown can be bound to a hotkey via AnyShortcut:
 
 https://apps.autodesk.com/FUSION/en/Detail/Index?id=156700835167123223
+
+![Toolbar View](viewdeck.jpg)
